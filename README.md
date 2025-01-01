@@ -1,6 +1,6 @@
 # Overview
 
-AI powered email client using NextJS 14. This application allows a user to sync their emails and structure them using AI. The Application will also allow a user to ask queries, ask the AI to structure their emails based on the email contents.
+AI powered email client using Next.js 14. This application allows a user to sync their emails and structure them using AI. The Application will also allow a user to ask queries, ask the AI to structure their emails based on the email contents.
 
 
 # Technologies and Frameworks
