@@ -1,6 +1,6 @@
 # Overview
 
-Welcome to this comprehensive full-stack tutorial where we build and deploy a fully featured AI powered email client using NextJS 14. Join me as we build an entire project from the ground up and seamlessly deploy it to Vercel 🚀. The application also includes a subscription feature, where users can subscribe to access premium features. The subscription process is handled using Stripe for payments and webhooks for event processing.
+AI powered email client using NextJS 14. This application allows a user to sync their emails and structure them using AI. The Application will also allow a user to ask queries, ask the AI to structure their emails based on the email contents.
 
 
 # Technologies and Frameworks
@@ -19,10 +19,6 @@ Welcome to this comprehensive full-stack tutorial where we build and deploy a fu
 - Pinecone
 - OpenAI Edge
 - Neon Database Serverless
-- @tanstack/react-query
-- @clerk/nextjs
-- clsx
-- tailwind-merge
 
 # Installation
 
